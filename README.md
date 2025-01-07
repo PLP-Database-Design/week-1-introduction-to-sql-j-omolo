@@ -38,3 +38,52 @@
 *How to edit a [markdownfile](https://www.markdownguide.org/basic-syntax/#headings)*
 
 ###  NOTE: You should not fork the repository
+
+
+
+
+
+
+
+
+
+ANSWERS
+1,TABLE
+II,,QUERY
+III,,REPORT
+
+2
+A relational database is a type of database that stores and organizes data in tables
+I,,MSQL
+II,ORACLE
+III,postgreSQL
+Microsoft sql server
+
+
+3
+DML - Used for manipulating data in the database.
+DCL- Control access and permission
+TCL -Manage transaction
+
+
+4
+Primary Key: Ensures each record in the table is unique and identifiable.
+Foreign Key: Establishes a relationship between two tables and ensures data integrity across them.
+
+5
+
+An Entity-Relationship Diagram - is a visual tool that illustrates the entities, attributes, and relationships within a database, helping to design and communicate the database structure and its logical connections.
+
+6
+Easily adapts to changes in data structures without major alterations.
+
+7
+int
+char
+date
+timestamp
+
+8
+data organization
+data retrival
+data security
